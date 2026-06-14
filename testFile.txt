@@ -1,0 +1,7 @@
+This file is for testing GIT commands only
+
+any changes here needs to be 
+git add and git commit to save it to local repository in my pc-personal computer
+
+
+revied the file
