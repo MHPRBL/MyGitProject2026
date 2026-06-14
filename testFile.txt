@@ -4,4 +4,7 @@ any changes here needs to be
 git add and git commit to save it to local repository in my pc-personal computer
 
 
-revied the file
+revised the file
+
+also connect my git local repository with GitHub remote repository
+
